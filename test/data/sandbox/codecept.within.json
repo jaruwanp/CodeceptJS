@@ -1,0 +1,13 @@
+{
+  "tests": "./*test_within.js",
+  "output": "./output",
+  "helpers": {
+    "Within": {
+      "require": "./within_helper"
+    }
+  },
+  "include": {},
+  "bootstrap": false,
+  "mocha": {},
+  "name": "sandbox"
+}
